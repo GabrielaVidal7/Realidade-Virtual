@@ -16,4 +16,5 @@ Os documentos abaixo foram retirados do software [Stellarium](https://github.com
 Os outros arquivos foram retirados de diversos locais:
 | Nome do arquivo | Local | Autor |
 | --- | --- | --- |
-|Saturno.fbx | CGTrader | medeixo |
+| 'Planets.fbx' | CGTrader | szantorajmond |
+| Pasta 'Textures' | CGTrader | szantorajmond |
